@@ -1,0 +1,6 @@
+---
+applications:
+- name: ExamenFinalADS
+  memory: 512M
+  instances: 1
+  timeout: 60

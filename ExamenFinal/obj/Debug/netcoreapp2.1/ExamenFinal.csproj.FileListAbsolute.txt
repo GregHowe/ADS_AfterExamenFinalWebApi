@@ -1,0 +1,14 @@
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp2.1\ExamenFinal.deps.json
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp2.1\ExamenFinal.runtimeconfig.json
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp2.1\ExamenFinal.runtimeconfig.dev.json
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp2.1\ExamenFinal.dll
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.csproj.CoreCompileInputs.cache
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.RazorAssemblyInfo.cache
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.RazorAssemblyInfo.cs
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.AssemblyInfoInputs.cache
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.AssemblyInfo.cs
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.RazorTargetAssemblyInfo.cache
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp2.1\ExamenFinal.pdb
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.dll
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.pdb
+D:\Work\PostGrado\Ingenieria de Ambiente de Desarrollo\DDD\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp2.1\ExamenFinal.csprojAssemblyReference.cache
