@@ -27,7 +27,7 @@ namespace ExamenFinal.Estudiante.api.controller
 
         #region Methods
 
-        [Route("/api/Estudiante/GetEstudiantePorNivel/{idNivelEstudio}")]
+        [Route("/api/Estudiante/GetEstudiantePorNivel")]
         [HttpGet]
         public IActionResult GetEstudiantePorNivel(int idNivelEstudio)
         {
@@ -67,7 +67,7 @@ namespace ExamenFinal.Estudiante.api.controller
 
 
 
-        [Route("/api/Estudiante/getMontoStudies/{id}")]
+        [Route("/api/Estudiante/getMontoStudies")]
         [HttpGet]
         public IActionResult getMontoStudies(int id)
         {

@@ -38,7 +38,6 @@ namespace ExamenFinal.Estudiante.application
 
         public List<EstudianteDto> GetEstudiantePorNivel(int idNivelEstudio)
         {
-            validacionGetEstudiante(idNivelEstudio);
             var result = _iUnitOfWork.Estudiante.getEstudianteByNivelEstudio(idNivelEstudio);
             var resultDto = _mapper.Map<List<EstudianteDto>>(result);
             return resultDto;
@@ -46,6 +45,8 @@ namespace ExamenFinal.Estudiante.application
 
         public decimal getMontoStudies(int id)
         {
+            validacionGetEstudiante(id);
+
             decimal result = 0;
             Estudiante student = _iUnitOfWork.Estudiante.getStudentById(id);
             if (student != null)
